@@ -32,3 +32,5 @@ overflow:hidden;をすれば、画像をトリミング（隠してくれる）
 		width:auto;
 		height:auto;
 のように指定すれば、ちょっとちっちゃくしてくれてそれをトリミングしたらokな状況になった。
+
+http://deerest.co/2015/10/22/css3-img-center-trimming/
