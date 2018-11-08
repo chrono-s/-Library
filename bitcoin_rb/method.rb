@@ -14,10 +14,7 @@ def get_price
     response = https.get uri.request_uri
     response_hash = JSON.parse(response.body)
     response_hash["mid_price"]
-    
-    
-    #83oHvBF4dkj8f1PnoVKCXm
-    #25MdBaMYr3/ivqEdSSqLJ2NOQW334KGkVtdjFdXVAc8=
+
 end
 
 def order(side,price,size)
